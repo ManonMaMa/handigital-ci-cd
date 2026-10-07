@@ -1,6 +1,6 @@
 # Liste de tâches
 
-ajout Application d'exemple du module « CI/CD avec Jenkins ».
+Application d'exemple du module « CI/CD avec Jenkins ».
 
 ## Commandes utiles
 
